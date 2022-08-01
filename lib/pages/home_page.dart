@@ -24,7 +24,7 @@ class _MyHomePage_State extends State<MyHomePage_> {
       body: Center(
         child: Text(
           count.toString(),
-          style: TextStyle(color: Colors.blueAccent, fontSize: 35),
+          style: TextStyle(color: Colors.blueAccent, fontSize: 35),//Textstyle
         ),
       ),
       floatingActionButton: FloatingActionButton(
